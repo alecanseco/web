@@ -5,7 +5,7 @@ function App() {
     <div>
       <header className="App-header">
         <p>
-          Mi primera pagina web
+          Mi primera pagina
         </p>
       </header>
     </div>
